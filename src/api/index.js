@@ -14,12 +14,18 @@ export const fetchData = async (country) => {
       data: { confirmed, recovered, deaths, lastUpdate },
     } = await axios.get(changeableUrl);
 
-    return {
+
+    const extractedData = {
       confirmed,
       recovered,
       deaths,
+      active: {
+        value: confirmed.value - recovered.value - deaths.value,
+      },
       lastUpdate,
     };
+
+    return extractedData;
   } catch (error) {
     console.log(error);
   }

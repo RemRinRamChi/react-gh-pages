@@ -10,6 +10,10 @@
   border-bottom: 10px solid rgba(0, 0, 255, 0.5);
 }
 
+.active {
+  border-bottom: 10px solid rgba(255, 230, 50, 0.5);
+}
+
 .recovered {
   border-bottom: 10px solid rgba(0, 255, 0, 0.5);
 }
