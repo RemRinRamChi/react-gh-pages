@@ -1,0 +1,9 @@
+components
+|- children (will have own styles and components)
+!- index.js for exports
+
+child
+- Child.jsx - jsx == js actually in functionality but it serves to tell this file contains JSX, not standard JS
+- Child.module.css - scopes the css to the child
+    - import styles from "./App.module.css";
+    - <div className={styles.container}>
