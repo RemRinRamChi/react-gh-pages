@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.8ca9f7a1.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.c39fb2e1.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.c39fb2e1.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.863b1ebe.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.863b1ebe.js.map",
+    "static/js/2.ac0c961b.chunk.js": "/react-gh-pages/static/js/2.ac0c961b.chunk.js",
+    "static/js/2.ac0c961b.chunk.js.map": "/react-gh-pages/static/js/2.ac0c961b.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.ed31ee04107b5f8f898c255a9faa199b.js": "/react-gh-pages/precache-manifest.ed31ee04107b5f8f898c255a9faa199b.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.8ca9f7a1.chunk.css.map": "/react-gh-pages/static/css/main.8ca9f7a1.chunk.css.map",
+    "static/js/2.ac0c961b.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ac0c961b.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/react-gh-pages/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863b1ebe.js",
+    "static/js/2.ac0c961b.chunk.js",
+    "static/css/main.8ca9f7a1.chunk.css",
+    "static/js/main.c39fb2e1.chunk.js"
+  ]
+}
