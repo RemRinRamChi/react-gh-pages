@@ -7,3 +7,16 @@ child
 - Child.module.css - scopes the css to the child
     - import styles from "./App.module.css";
     - <div className={styles.container}>
+
+== okay now we got the project structure out of the way ==
+should always use functional components but sometimes it is easier to just use class based components
+
+
+
+
+
+
+
+
+
+
